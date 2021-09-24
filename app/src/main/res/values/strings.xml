@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPlant</string>
+    <string name="title_home">Home</string>
+    <string name="title_plant">Plant</string>
+    <string name="title_cloth">Cloth</string>
+    <string name="title_setting">Setting</string>
+</resources>
