@@ -10,7 +10,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 
-public class TemperatureFragment extends Fragment {
+public class TemperatureFragment extends Fragment {//알림 처리 추가
 
     private TextView right_temperature, temperature_txt;
     private ImageView temperature_img;
